@@ -1,0 +1,2 @@
+yolov4-for-darknet_ros/darknet_ros/darknet_ros:yolov4-for-darknet_ros/darknet_ros/darknet_ros_msgs
+-DCATKIN_DEVEL_PREFIX=/home/patrol2/yolo_ws_behind/devel -DCMAKE_INSTALL_PREFIX=/home/patrol2/yolo_ws_behind/install -G Unix Makefiles

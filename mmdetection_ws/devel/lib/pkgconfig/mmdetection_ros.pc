@@ -1,0 +1,8 @@
+prefix=/home/patrol2/mmdetection_ws/devel
+
+Name: mmdetection_ros
+Description: Description of mmdetection_ros
+Version: 0.0.0
+Cflags: -I/home/patrol2/mmdetection_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/patrol2/mmdetection_ws/devel/setup.sh
